@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROOM-32
+D ESP23-WROOM-32
+K wifi, BLE, microcontroller esp32
+$ENDCMP
+#
+#End Doc Library
