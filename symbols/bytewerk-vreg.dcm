@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LT8607
+D 42V, 750mA Synchronous Step-Down Regulator with 2.5μA Quiescent Current
+K vreg linear
+$ENDCMP
+#
 $CMP NCP718BSN330T1G
 D 40 V, 200 mA, Low Noise, CMOS LDO Linear Regulator, TSOT-23-5
 K linear regulator ldo adjustable positive
