@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESP32-DevKitC-32D
+D ESP32-DevKitC-32D
+K esp32 wifi eval
+$ENDCMP
+#
 $CMP ESP32-WROOM-32
 D ESP23-WROOM-32
 K wifi, BLE, microcontroller esp32
