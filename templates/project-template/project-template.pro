@@ -14,7 +14,7 @@ LibDir=
 [eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=/home/stephan/Dokumente/KiCad_Workshop/libs_workshop/templates/bytewerk_template.kicad_wks
+PageLayoutDescrFile=${KIPRJMOD}/kicad-libs-workshop/templates/bytewerk_template.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
@@ -24,7 +24,7 @@ LabSize=50
 ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=/home/stephan/Dokumente/KiCad_Workshop/libs_workshop/templates/bytewerk_template.kicad_wks
+PageLayoutDescrFile=${KIPRJMOD}/kicad-libs-workshop/templates/bytewerk_template.kicad_wks
 LastNetListRead=
 PadDrill=0.762
 PadDrillOvalY=0.762
